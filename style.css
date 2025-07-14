@@ -1,0 +1,121 @@
+@media(max-width: 600px){
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 5px;
+  background: #f4f4f4;
+  color: #333;
+  text-align: center;
+}
+}
+body li{
+  text-align: left;
+}
+
+header {
+  background: #005b96;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-weight: 900;
+}
+
+nav ul {
+  background-color: crimson;
+  font-family: Arial, Helvetica, sans-serif;
+  /* padding-right: 5px;
+  padding-left: 5px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 10px;
+  overflow: hidden;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  background-color: aqua;
+}
+img{
+  width: 20%;
+}
+
+.hero h2 {
+  margin: 10px 5px 5px 5px;
+  color:black;
+  padding: 15px;
+  text-align: center;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+table {
+  margin-top: 0px;
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+section h2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+section h3{
+  margin: 0px;
+}
+table{
+  margin: 0px;
+}
+table, th, td {
+  border: 1px solid #aaa;
+  background-color: skyblue;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+th{
+  background-color: green;
+}
+ header {
+  background: black:
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  /* max-width: 350px;
+  margin: auto;
+  font-family: arial;
+  border: 1.5px solid blue;
+  margin-top: 50px; 
+  margin-bottom: 10px; */
+}
+form input{
+  font-size: 16px;
+  padding: 15px 15px;
+  width: 50%;
+}
+
+/* input, textarea, button {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 1em;
+} */
